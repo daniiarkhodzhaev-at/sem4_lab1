@@ -1,0 +1,3 @@
+[submodule "miniscience-4th-term"]
+	path = miniscience-4th-term
+	url = git@github.com:avasyukov/miniscience-4th-term.git
